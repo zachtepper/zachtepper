@@ -1,6 +1,6 @@
 ### Hello, World! 
 
-- 🏫 I am a third year computer science undergrad student at the University of Illinois - Chicago. 
+- 🏫 I am a fourth year computer science undergrad student at the University of Illinois - Chicago graduating in May 2023. 
 - 🌱 I’m currently learning the [Rust programming language](https://www.rust-lang.org/).
 - 🤝 I’m looking to collaborate on unique and fun open source projects.
 - 📫 The best place to reach me is my email at: zach.tepp@gmail.com
