@@ -1,6 +1,7 @@
 ### Hello, World! 
 
 - 🏫 I am a fourth year computer science undergrad student at the University of Illinois - Chicago, graduating in May 2023. 
+- 🔭 I’m currently working on the [Advent of Code 2022](https://adventofcode.com/) challenge!
 - 🌱 I’m currently learning Full Stack Web Development as well as Android App Development.
 - 🤝 I’m looking to collaborate on unique and fun open source projects.
 - 📫 The best place to reach me is my email at: zach.tepp@gmail.com
