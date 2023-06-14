@@ -1,8 +1,8 @@
 ### Hello, World! 
 
-- 🏫 I am an undergrad computer science student at the University of Illinois - Chicago, graduating in May 2023. 
-- 🌱 I’m currently learning Data Science as well as Machine Learning. 
-- 🤝 I’m looking to collaborate on unique and fun open source projects.
+- 🎓 I am a recent computer science student graduate from the University of Illinois - Chicago. 
+- 💻 I am currently a Software Engineer at Relativity. 
+- 🤝 I'm always looking to collaborate on unique and fun open source projects.
 - 📫 The best place to reach me is my email at: zach.tepp@gmail.com
 
 <!--
